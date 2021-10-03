@@ -47,13 +47,13 @@ class MyApp extends StatelessWidget {
                 Text(
                   "My to do",
                   style: TextStyle(
-                    fontSize: 32,
+                    fontSize: 16,
                     fontWeight: FontWeight.w700,
                     color: Colors.white,
                   ),
                 ),
                 SizedBox(
-                  height: 20.0,
+                  height: 10.0,
                 ),
                 Text(
                   "10 Tasks done!",
